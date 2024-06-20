@@ -1,0 +1,56 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-variant-caps: small-caps;
+    display: flex;
+    background-image: linear-gradient(to right,yellow,yellow,red);
+    justify-content:center;    
+}
+h1:hover{
+color: blue;
+cursor: pointer;
+}
+.one{
+    text-align: center;
+}
+img{
+    width:600px;
+    height:300px;
+}
+/* button{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    position:relative;
+    bottom:60px;
+} */
+.two{
+    display: flex;
+    justify-content: center;
+}
+button{
+    width: 190px;
+    height: 20px;
+    position: relative;
+    bottom: 40px;
+    background-color:chartreuse;
+    border-radius:19px;
+}
+button:hover{
+    background-color: aquamarine;
+    width: 200px;
+    height:30px;
+}
+body{
+    background-image: url(public/org.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1000px;
+    position: relative;
+    bottom:20px;
+}
+
+
+
+
+
+    

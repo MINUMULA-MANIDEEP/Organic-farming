@@ -1,0 +1,27 @@
+body{
+    background-color:lightsalmon;
+}
+h3{
+    text-align: center;
+    color:firebrick;
+}
+div{
+    display:grid;
+    justify-content: center;
+    gap:10px;
+}
+input{
+    width:300px;
+    height: auto;
+    /* text-align: center; */
+
+}
+textarea{
+    width:300px;
+    height:100px;
+
+}
+button{
+    width:300px;
+    border:solid;
+}
